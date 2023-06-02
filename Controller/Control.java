@@ -1,5 +1,7 @@
-package Controller;
-
-public class Control {
-
+public class Control 
+{
+  Public static void main(String [] args)
+  {
+  System.out.println("Hello World");
+}
 }
